@@ -1,7 +1,7 @@
 import axios from "axios";
 import queryString from "query-string";
 
-const baseURL = "https://movie-review-system-server.vercel.app/";
+const baseURL = "https://vercel.com/nsl-karthikeya-reddys-projects/movie-review-system-server/2xccGoD8QN2RgobqSGrHU4cNTC8B/";
 
 const publicClient = axios.create({
   baseURL,
